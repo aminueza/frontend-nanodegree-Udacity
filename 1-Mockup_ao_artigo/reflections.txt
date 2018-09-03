@@ -1,0 +1,16 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+1 - Aprendi a usar os footnotes e adicionar css inline no html para deixar uma margem formatada ao texto.
+2 - Achei o projeto totalmente fácil, mas fiquei com dúvida em algumas tags que foram sanadas por colegas do grupo.
+3 - Ao todo, achei o projeto muito fácil, mas achei um pouco difícil de entender a idéia de footnotes e como esconder 
+    a linha que aparece no número de referência da nota.
+4 - Como auxílio, o grupo do slack e amigos em comum que estão fazendo o mesmo curso, foi primordial para me estimular no projeto,
+    como também os fóruns da internet.
