@@ -1,0 +1,53 @@
+.body-container{
+    max-width: 320px;
+    margin:0 auto;
+    box-shadow: 10px 10px 20px #cccccc;
+    border: solid #cccccc 1px;
+    transition: 0.3s;
+    border-radius: 5px;
+    background: #FFFFFF;
+    color: #3a3a3a;
+    text-align: justify;
+    font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+    position: relative;
+    cursor: url(http://cur.cursors-4u.net/nature/nat-9/nat865.cur), auto !important;
+}
+
+.body-container:hover {
+  box-shadow: 20px 20px 40px #cccccc;
+}
+
+h3 {
+  text-transform: uppercase;
+  font-size: 1.7em;
+  width: 300px;
+  padding: 5px 0;
+  margin: 15px auto;
+}
+
+img{
+    margin: auto;
+    max-width: 300px;
+    display: block;
+    border: 1px solid #cccccc;
+}
+
+ul{
+  list-style: none;
+  padding: 0;
+  text-align: left;
+}
+
+.italic {
+  font-style: italic;
+}
+
+span{
+  font-weight: bold;
+}
+
+.border-text{
+  border: 1px solid #cccccc;
+  padding: 10px;
+  margin: 10px;
+}
